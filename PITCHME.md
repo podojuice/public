@@ -10,7 +10,7 @@
 
 연말 계획 : 술마십니다.
 
-사진 : ![Logo](http://image.jjang0u.service.concdn.com/data3/chalkadak/160/201811/08/154166550823483.jpg)
+사진 : 
 
 ---
 # 여현구
@@ -61,8 +61,6 @@
 연말 계획 : 방치우기. 영화보기. 잠자기. 게임.
 
 ![Logo](https://img.sbs.co.kr/newsnet/etv/upload/2016/02/19/30000521287_1280.jpg)
-
----?image=https://frontera.net/news/latam/its-all-blue-skies-not-bumpy-roads-for-latin-america/attachment/blue-sky/
 
 ---
 # 이원진
