@@ -51,6 +51,9 @@
 
 연말 계획: 친구들과 맛집을 찾아다닐 예정입니다.
 
+
+
+![Logo](https://t1.daumcdn.net/cfile/tistory/2334943F52772A281D)
 ---
 
 # 슬라이드 6
