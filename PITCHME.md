@@ -10,7 +10,7 @@
 
 연말 계획 : 술마십니다.
 
-사진 : ![Logo](http://image.jjang0u.service.concdn.com/data3/chalkadak/160/201811/08/154166550823483.jpg)
+사진 : 
 
 ---
 # 여현구
@@ -21,7 +21,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-!![test](https://github.com/favicon.ico | width=48)
+![Logo](http://image.chosun.com/sitedata/image/201611/03/2016110301251_0.jpg)
 
 
 
@@ -60,7 +60,7 @@
 
 연말 계획 : 방치우기. 영화보기. 잠자기.
 
-![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
+![Logo](https://img.sbs.co.kr/newsnet/etv/upload/2016/02/19/30000521287_1280.jpg)
 
 ---?image=https://frontera.net/news/latam/its-all-blue-skies-not-bumpy-roads-for-latin-america/attachment/blue-sky/
 
