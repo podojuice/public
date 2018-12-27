@@ -10,7 +10,7 @@
 
 연말 계획 : 술마십니다.
 
-사진 : 
+사진 : ![Logo](http://image.jjang0u.service.concdn.com/data3/chalkadak/160/201811/08/154166550823483.jpg)
 
 ---
 # 여현구
@@ -21,7 +21,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-![Logo](http://image.chosun.com/sitedata/image/201611/03/2016110301251_0.jpg)
+![Logo]
 
 
 
