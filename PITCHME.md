@@ -21,7 +21,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-![Logo]
+![Logo](http://image.chosun.com/sitedata/image/201611/03/2016110301251_0.jpg)
 
 
 
@@ -62,7 +62,7 @@
 
 ![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
 
----?image=https://frontera.net/wp-content/uploads/2017/03/bigstock-Blue-sky-24967379.jpg
+---?image=https://frontera.net/news/latam/its-all-blue-skies-not-bumpy-roads-for-latin-america/attachment/blue-sky/
 
 ---
 # 이원진
