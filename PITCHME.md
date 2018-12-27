@@ -1,7 +1,7 @@
 ---
 # 슬라이드 1
 뉴비스조 
-![Logo](C:\Users\student\Desktop\잡동사니\KakaoTalk_20181219_175720714)
+![Logo](public/img/)
 
 ---
 # 슬라이드 2
