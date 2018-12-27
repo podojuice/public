@@ -74,11 +74,12 @@
 
 성격 : 활발한데 낯가림
 
-연말 계획 및 12월 31일에 하고 싶은 것 : 
+연말 계획 및 12월 31일에 하고 싶은 것 : SSAFY 더 힘들어지기 전에 친구도 만나고 쉬고... 자고...
+
 
 
 ---
-![ë¼ì´ì¸ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](https://t1.daumcdn.net/cfile/tistory/2761AA4558A05CBE2A)
+![Logo](https://t1.daumcdn.net/cfile/tistory/2761AA4558A05CBE2A)
 
 
 
