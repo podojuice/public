@@ -24,7 +24,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-![img](https://fimg4.pann.com/new/download.jsp?FileID=46944710)
+![Logo](https://fimg4.pann.com/new/download.jsp?FileID=46944710)
 
 
 
@@ -64,7 +64,7 @@
 
 성격 : 꿈을 향해 노력하는 낭만가. 침착. 과묵. 긍정적. 쉽게 나른해짐.
 
-연말 계획 : 방치우기. 영화보기. 잠자기. 게임.
+연말 계획 : 방치우기. 영화보기. 잠자기.
 
 ![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
 
