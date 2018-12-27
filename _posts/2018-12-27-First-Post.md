@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습 2주차
+title: 자기 주도 학습 1주차
 ---
 
 ## [1주차 Reflection] Design Thinking 방법론
