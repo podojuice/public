@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "Newbies"
 title_separator          : "-"
 name                     : "Newbies"
@@ -106,7 +106,7 @@ author:
   name             : "Newbies"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are Newbies"
-  location         : "Somewhere"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
