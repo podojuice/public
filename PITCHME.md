@@ -10,6 +10,7 @@
 
 연말 계획 : 술마십니다.
 
+---
 ![Logo](http://image.jjang0u.service.concdn.com/data3/chalkadak/160/201811/08/154166550823483.jpg)
 
 ---
@@ -21,6 +22,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
+---
 ![Logo](http://image.chosun.com/sitedata/image/201611/03/2016110301251_0.jpg)
 
 
@@ -36,6 +38,7 @@
 
 연말계획 : 가족 외식, 수업 복습, 여가 활동
 
+---
 ![Logo](https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_960_720.jpg)
 
 ---
@@ -48,8 +51,9 @@
 연말 계획: 친구들과 맛집을 찾아다닐 예정입니다.
 
 
-
+---
 ![Logo](https://t1.daumcdn.net/cfile/tistory/2334943F52772A281D)
+
 ---
 
 # 권택건
@@ -60,6 +64,7 @@
 
 연말 계획 : 방치우기. 영화보기. 잠자기. 게임.
 
+---
 ![Logo](https://img.sbs.co.kr/newsnet/etv/upload/2016/02/19/30000521287_1280.jpg)
 
 ---
@@ -72,7 +77,7 @@
 연말 계획 및 12월 31일에 하고 싶은 것 : 
 
 
-
+---
 ![ë¼ì´ì¸ì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](https://t1.daumcdn.net/cfile/tistory/2761AA4558A05CBE2A)
 
 
