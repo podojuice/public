@@ -28,5 +28,15 @@ title: 자기 주도 학습 2주차
 (2) 버그 수정
 (3) 정확한 크롤링
 (4) 주변과의 활발한 협업 도모
+
+챗봇
+
+송건호 - https://songgunho-ssonggunho.c9users.io/
+이원진 - https://github.com/Terpr66/TIL/tree/master/Startcamp/Day_6(181227)
+여현구 - https://startcamp-podojuice.c9users.io/ping
+안도건 - https://startcamp-dogeonzzang.c9users.io/get_lotto/837
+이유림 - https://startcamp-yurimida.c9users.io/theaters
+권택건 - 
+
 ```
 
