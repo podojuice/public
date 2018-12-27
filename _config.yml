@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1_team"
+title                    : "Newbies"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "1_team website."
+description              : "Newbies website."
 url                      : "https://podojuice.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "/public"  # the subpath of your site, e.g. 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
