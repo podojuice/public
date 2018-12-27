@@ -24,7 +24,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-![Logo](ermestaekkunkwon/public/1545178773742.jpg)
+![img](https://fimg4.pann.com/new/download.jsp?FileID=46944710)
 
 ---
 # 슬라이드 4
