@@ -36,7 +36,7 @@
 
 연말계획 : 가족 외식, 수업 복습, 여가 활동
 
-![Logo](https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_960_720.jpg | width=50)
+![Logo](https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_960_720.jpg)
 
 ---
 # 이유림 
@@ -60,7 +60,7 @@
 
 연말 계획 : 방치우기. 영화보기. 잠자기.
 
-![Logo](https://github.com/podojuice/public/blob/master/ta.jpg)
+![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
 
 ---
 # 이원진
