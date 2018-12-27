@@ -10,7 +10,7 @@
 ---
 # 슬라이드 3
 
-![Logo](podojuice/public/1545178773742.jpg)
+![Logo](ermestaekkunkwon/public/1545178773742.jpg)
 ---
 # 슬라이드 4
 
