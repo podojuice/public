@@ -59,6 +59,8 @@
 
 연말 계획 : 방치우기. 영화보기. 잠자기.
 
+![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
+
 ---
 # 슬라이드 7
 이름 : 이원진
