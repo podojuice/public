@@ -62,7 +62,7 @@
 
 ![Logo](https://github.com/podojuice/public/blob/master/1545178773742.jpg)
 
----?image=https://frontera.net/news/latam/its-all-blue-skies-not-bumpy-roads-for-latin-america/attachment/blue-sky/
+---?image=https://frontera.net/wp-content/uploads/2017/03/bigstock-Blue-sky-24967379.jpg
 
 ---
 # 이원진
