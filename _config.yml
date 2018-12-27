@@ -20,10 +20,10 @@ title                    : "newbis"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Our team"
-url                      : # the base hostname & protocol for your site e.g. "https://podojuice.github.io"
-baseurl                  : # the subpath of your site, e.g. "public"
-repository               : # GitHub username/repo-name e.g. "podojuice/public"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+url                      :  "https://podojuice.github.io" # the base hostname & protocol for your site e.g.
+baseurl                  :  "/public" # the subpath of your site, e.g.
+repository               :  "podojuice/public" # GitHub username/repo-name e.g.
+teaser                   :  "/assets/images/500x300.png" # path of fallback teaser image, e.g.
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
