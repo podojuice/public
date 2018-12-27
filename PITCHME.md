@@ -24,7 +24,7 @@
 
 연말계획: 코드 리뷰, CODECADEMY
 
-![Logo](https://fimg4.pann.com/new/download.jsp?FileID=46944710)
+![Logo]
 
 
 
@@ -39,6 +39,8 @@
 성격: 과묵
 
 연말계획 : 가족 외식, 수업 복습, 여가 활동
+
+![Logo](https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_960_720.jpg)
 
 ---
 # 슬라이드 5
