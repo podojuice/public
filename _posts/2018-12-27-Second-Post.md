@@ -36,7 +36,7 @@ title: 자기 주도 학습 2주차
 여현구 - https://startcamp-podojuice.c9users.io/ping
 안도건 - https://startcamp-dogeonzzang.c9users.io/get_lotto/837
 이유림 - https://startcamp-yurimida.c9users.io/theaters
-권택건 - 
+권택건 - https://startcamp-kaitoru.c9users.io/finger_snap
 
 ```
 
